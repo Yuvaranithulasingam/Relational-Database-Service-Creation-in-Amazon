@@ -45,6 +45,8 @@ mysql -h <endpoint> -u <username> -p
 
 ![image](https://github.com/user-attachments/assets/2b728a6d-7028-4b64-b7d2-0e121596c241)
 
+![image](https://github.com/user-attachments/assets/d6faeab8-abdd-49d7-ab1b-262b558e2efd)
+
 ## RESULT
 The experiment successfully demonstrated the creation of a relational database in Amazon RDS, configuration of its settings, and testing of database functionality using SQL commands.
   
